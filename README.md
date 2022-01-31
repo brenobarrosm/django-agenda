@@ -24,13 +24,13 @@ No site, existem as seguintes áreas que podem ser acessadas executando o servid
 1. Primeiramente é necessário fazer a instalação das dependências necessário utilizando o seguinte comando na pasta raiz do projeto:
 
 ```bash
-    pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 2. Agora execute o seguinte comando no terminal:
 
 ```bash
-    python manage.py runserver
+python manage.py runserver
 ```
 
 Agora o servidor vai começar a rodar localmente na porta 8000, podendo ser acessado no navegador utilizando [localhost:8000](localhost:8000).
